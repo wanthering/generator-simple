@@ -12,11 +12,18 @@
   "author": "wanthering",
   "license": "MIT",
   "dependencies": {
+    "@vue/cli-shared-utils": "^3.2.0",
+    "config-pool": "^1.0.0",
+    "deepmerge": "^3.0.0",
     "ejs": "^2.6.1",
     "fs-extra": "^7.0.1",
     "globby": "^8.0.1",
     "isbinaryfile": "^3.0.3",
+    "javascript-stringify": "^1.6.0",
+    "jscodeshift": "^0.6.2",
     "memfs": "^2.14.1",
+    "merge-dependencies": "^1.0.0",
+    "slash": "^2.0.0",
     "yaml-front-matter": "^4.0.0"
   },
   "devDependencies": {
