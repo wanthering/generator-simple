@@ -1,5 +1,5 @@
 {
-  "name": "generator-simple",
+  "name": "vue-generator-simple",
   "version": "1.0.0",
   "description": "simple vue cli core: Generator",
   "main": "./lib/Generator.js",
